@@ -1,0 +1,29 @@
+name: Оновити загальний Excel
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Завантажити файли репозиторію
+        uses: actions/checkout@v4
+
+      - name: Встановити Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Встановити бібліотеки
+        run: pip install -r requirements.txt
+
+      - name: Створити загальний Excel
+        run: python build_master.py
+
+      - name: Зберегти готовий Excel
+        uses: actions/upload-artifact@v4
+        with:
+          name: UKRAGRO_ALL_PRICES
+          path: output/UKRAGRO_ALL_PRICES.xlsx
