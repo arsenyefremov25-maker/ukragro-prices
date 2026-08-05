@@ -1408,7 +1408,6 @@ def main() -> None:
     prepared_wide: dict[str, tuple[pd.DataFrame, bool]] = {}
 
     with pd.ExcelWriter(OUTPUT_FILE, engine="openpyxl") as writer:
-        # Порядок вкладок: спочатку основні таблиці, потім аналітичні зрізи.
         for sheet_name, source, include_category in wide_sheets:
             wide = build_wide_table(source, include_category=include_category)
             prepared_wide[sheet_name] = (wide, include_category)
@@ -1534,10 +1533,8 @@ def main() -> None:
     style_database_sheet(workbook["База даних"], all_prices)
     style_log_sheet(workbook["Журнал"])
 
-    # Перша сторінка — довідкова навігація з внутрішніми посиланнями.
     create_navigation_sheet(workbook, dates)
 
-    # Не покладаємося на порядок створення: встановлюємо його явно.
     reorder_sheets(workbook)
 
     workbook.save(OUTPUT_FILE)
