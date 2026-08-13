@@ -139,6 +139,7 @@ BORDER_COLOR = "B8CCE4"
 
 
 def parse_sheet_date(sheet_name: str) -> pd.Timestamp | None:
+    sheet_name = sheet_name.strip()
     match = re.fullmatch(r"(\d{2}\.\d{2}\.\d{4})_min_max", sheet_name)
     if not match:
         return None
