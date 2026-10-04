@@ -2,6 +2,19 @@ name: Оновити загальний Excel
 
 on:
   workflow_dispatch:
+    inputs:
+      full_rebuild:
+        description: "Перечитати всі файли з input/ з нуля (ігнорувати накопичену базу)"
+        type: boolean
+        default: false
+
+# Потрібно, щоб workflow міг закомітити оновлену базу data/prices_db.csv
+permissions:
+  contents: write
+
+concurrency:
+  group: build-master
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -15,15 +28,38 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
 
       - name: Встановити бібліотеки
         run: pip install -r requirements.txt
 
       - name: Створити загальний Excel
-        run: python build_master.py
+        id: build
+        continue-on-error: true
+        run: python build_master.py ${{ inputs.full_rebuild && '--full-rebuild' || '' }}
 
       - name: Зберегти готовий Excel
+        if: always() && hashFiles('output/UKRAGRO_ALL_PRICES.xlsx') != ''
         uses: actions/upload-artifact@v4
         with:
           name: UKRAGRO_ALL_PRICES
           path: output/UKRAGRO_ALL_PRICES.xlsx
+
+      - name: Закомітити накопичену базу
+        if: always() && hashFiles('data/prices_db.csv') != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add data/prices_db.csv data/processed_files.csv
+          if git diff --staged --quiet; then
+            echo "База не змінилась — коміт не потрібен."
+          else
+            git commit -m "Оновлено базу цін (data/prices_db.csv) [skip ci]"
+            git push
+          fi
+
+      - name: Позначити запуск як невдалий, якщо були помилки
+        if: steps.build.outcome == 'failure'
+        run: |
+          echo "::error::Скрипт завершився з помилками — див. підсумок запуску та аркуш «Контроль якості» в Excel."
+          exit 1
