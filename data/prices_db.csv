@@ -1,1 +1,831 @@
-
+﻿Дата,Товар,Якість,Країна,Порт,Базис,Валюта,Продавець min,Продавець max,Покупець min,Покупець max,Місяць поставки,Сезон,Тип товару,Середня ціна продавця,Середня ціна покупця,Джерело — файл,Джерело — аркуш,_rank
+2026-07-13,Barley,Feed,Australia,,FOB,USD,,267,,,July,2026/27,Grain,267.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,205.0000,210,,,August,2026/27,Grain,207.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,France,Rouen,FOB,USD,,227,,,August,2026/27,Grain,227.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,July,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,August,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,July,2026/27,Grain,192.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,August,2026/27,Grain,192.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,Ukraine,Odesa,CPT,USD,185.0000,195,,,July,2026/27,Grain,190.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,Ukraine,Odesa,CPT,USD,185.0000,195,,,August,2026/27,Grain,190.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,Ukraine,Odesa,FOB,USD,200.0000,210,,,July,2026/27,Grain,205.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,Ukraine,Odesa,FOB,USD,200.0000,210,,,August,2026/27,Grain,205.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,Ukraine,Reni,CPT,USD,183.0000,193,,,July,2026/27,Grain,188.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,Ukraine,Reni,CPT,USD,183.0000,193,,,August,2026/27,Grain,188.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,Ukraine,,CPT,UAH,9100.0000,9600,,,July,2026/27,Grain,9350.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Barley,Feed,Ukraine,,EXW,UAH,8500.0000,9000,,,July,2026/27,Grain,8750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Argentina,,FOB,USD,,205,,,August,2025/26,Grain,205.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Brazil,,FOB,USD,,221,,,August,2025/26,Grain,221.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,235.0000,240,,,August,2025/26,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Russia,Novorossiysk,FOB,USD,225.0000,230,,,July,2025/26,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Russia,Novorossiysk,FOB,USD,225.0000,230,,,August,2025/26,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Russia,Rostov/Azov,FOB,USD,215.0000,220,,,July,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Russia,Rostov/Azov,FOB,USD,215.0000,220,,,August,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,USA,Gulf,FOB,USD,,215,,,August,2025/26,Grain,215.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Ukraine,Odesa,CPT,USD,215.0000,220,,,July,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Ukraine,Odesa,CPT,USD,215.0000,220,,,October,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Ukraine,Odesa,FOB,USD,222.0000,227,,,July,2025/26,Grain,224.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Ukraine,Odesa,FOB,USD,222.0000,227,,,August,2025/26,Grain,224.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Ukraine,Reni,CPT,USD,213.0000,218,,,July,2025/26,Grain,215.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Ukraine,Reni,CPT,USD,213.0000,218,,,August,2025/26,Grain,215.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Ukraine,Western border,DAP,USD,215.0000,220,,,July,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Ukraine,Western border,DAP,USD,215.0000,220,,,October,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Ukraine,,CPT,UAH,10400.0000,10900,,,July,2025/26,Grain,10650.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Corn,Feed,Ukraine,,EXW,UAH,9300.0000,9800,,,July,2025/26,Grain,9550.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12%,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,235.0000,240,,,August,2026/27,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,230.0000,235,,,August,2026/27,Grain,232.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 11.5%,France,Rouen,FOB,USD,,235,,,August,2026/27,Grain,235.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,225.0000,230,,,July,2026/27,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,225.0000,230,,,August,2026/27,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,220.0000,225,,,July,2026/27,Grain,222.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,220.0000,225,,,August,2026/27,Grain,222.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Feed,Russia,Novorossiysk,FOB,USD,195.0000,200,,,July,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Feed,Russia,Novorossiysk,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,July,2026/27,Grain,192.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,August,2026/27,Grain,192.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,185.0000,190,,,July,2026/27,Grain,187.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,185.0000,190,,,August,2026/27,Grain,187.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,SRW,USA,Gulf,FOB,USD,,258,,,August,2026/27,Grain,258.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,HRW,USA,Gulf,FOB,USD,,296,,,August,2026/27,Grain,296.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12.5%,Ukraine,Odesa,CPT,USD,212.0000,217,,,July,2026/27,Grain,214.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12.5%,Ukraine,Odesa,CPT,USD,212.0000,217,,,August,2026/27,Grain,214.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 11.5%,Ukraine,Odesa,CPT,USD,210.0000,215,,,July,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 11.5%,Ukraine,Odesa,CPT,USD,210.0000,215,,,August,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Feed,Ukraine,Odesa,CPT,USD,195.0000,200,,,July,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Feed,Ukraine,Odesa,CPT,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12.5%,Ukraine,Odesa,FOB,USD,222.0000,227,,,July,2026/27,Grain,224.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12.5%,Ukraine,Odesa,FOB,USD,222.0000,227,,,August,2026/27,Grain,224.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 11.5%,Ukraine,Odesa,FOB,USD,220.0000,225,,,July,2026/27,Grain,222.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 11.5%,Ukraine,Odesa,FOB,USD,220.0000,225,,,August,2026/27,Grain,222.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Feed,Ukraine,Odesa,FOB,USD,218.0000,223,,,July,2026/27,Grain,220.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Feed,Ukraine,Odesa,FOB,USD,218.0000,223,,,August,2026/27,Grain,220.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,210.0000,215,,,July,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,210.0000,215,,,August,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,208.0000,213,,,July,2026/27,Grain,210.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,208.0000,213,,,August,2026/27,Grain,210.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Feed,Ukraine,Reni,CPT,USD,193.0000,198,,,July,2026/27,Grain,195.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Feed,Ukraine,Reni,CPT,USD,193.0000,198,,,August,2026/27,Grain,195.5000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12.5%,Ukraine,,CPT,UAH,10300.0000,10800,,,July,2026/27,Grain,10550.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Feed,Ukraine,,CPT,UAH,9500.0000,10000,,,July,2026/27,Grain,9750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Milling - 12.5%,Ukraine,,EXW,UAH,9000.0000,9500,,,July,2026/27,Grain,9250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Wheat,Feed,Ukraine,,EXW,UAH,8500.0000,9000,,,July,2026/27,Grain,8750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybean cake,,Ukraine,,EXW,UAH,19000.0000,19500,,,July,2025/26,Meals,19250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybean meal,,Argentina,,FOB,USD,,347,,,August,2025/26,Meals,347.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybean meal,,Ukraine,,CPT,USD,400.0000,410,,,July,2025/26,Meals,405.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybean meal,,Ukraine,,EXW,UAH,19500.0000,20000,,,July,2025/26,Meals,19750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower cake,,Ukraine,,EXW,UAH,11000.0000,11500,,,July,2025/26,Meals,11250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower meal,,Ukraine,Western border,DAP,USD,250.0000,260,,,July,2025/26,Meals,255.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower meal,,Ukraine,,CPT,USD,230.0000,240,,,July,2025/26,Meals,235.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower meal,,Ukraine,,EXW,UAH,11500.0000,12000,,,July,2025/26,Meals,11750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Linseed,,Ukraine,,EXW,UAH,28000.0000,29000,,,July,2025/26,Oilseeds,28500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Rapeseed,,Europe,Moselle,FOB,USD,,591,,,July,2026/27,Oilseeds,591.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,585.0000,595,,,July,2026/27,Oilseeds,590.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,600.0000,610,,,July,2026/27,Oilseeds,605.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Rapeseed,,Ukraine,Western border,DAP,USD,570.0000,580,,,July,2026/27,Oilseeds,575.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Rapeseed,non-GMO,Ukraine,,CPT,UAH,25500.0000,26500,,,July,2026/27,Oilseeds,26000.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Rapeseed,non-GMO,Ukraine,,EXW,UAH,25000.0000,26000,,,July,2026/27,Oilseeds,25500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybeans,,Argentina,,FOB,USD,,450,,,August,2025/26,Oilseeds,450.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybeans,,Brazil,,FOB,USD,,474,,,August,2025/26,Oilseeds,474.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybeans,,USA,Gulf,FOB,USD,,481,,,August,2025/26,Oilseeds,481.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybeans,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,440.0000,450,,,July,2025/26,Oilseeds,445.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybeans,,Ukraine,Reni,DAP,USD,430.0000,440,,,July,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybeans,,Ukraine,Western border,DAP,USD,430.0000,440,,,July,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybeans,,Ukraine,,CPT,UAH,21000.0000,22000,,,July,2025/26,Oilseeds,21500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybeans,,Ukraine,,EXW,UAH,20000.0000,21000,,,July,2025/26,Oilseeds,20500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower seed,,Bulgaria,Black Sea,FOB,USD,665.0000,675,,,July,2025/26,Oilseeds,670.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower seed,,Romania,Black Sea,FOB,USD,665.0000,675,,,July,2025/26,Oilseeds,670.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower seed,,Ukraine,Western border,DAP,USD,570.0000,580,,,July,2025/26,Oilseeds,575.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower seed,,Ukraine,,CPT,UAH,33000.0000,34000,,,July,2025/26,Oilseeds,33500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower seed,,Ukraine,,EXW,UAH,32000.0000,33000,,,July,2025/26,Oilseeds,32500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Palm oil,Crude,Malaysia,,FOB,USD,,1103,,,July,2025/26,Vegoil,1103.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Rapeseed oil,,Europe,Vesper Price Index,FOB,USD,,1175,,,August,2025/26,Vegoil,1175.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybean oil,Crude,Argentina,Up-river,FOB,USD,,1150,,,August,2025/26,Vegoil,1150.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Soybean oil,Crude,Ukraine,,EXW,UAH,54000.0000,55000,,,July,2025/26,Vegoil,54500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower oil,Crude,Europe,Six ports,FOB,USD,,1470,,,August,2025/26,Vegoil,1470.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower oil,Crude,Russia,,FOB,USD,1370.0000,1380,,,July,2025/26,Vegoil,1375.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,1345.0000,1355,,,July,2025/26,Vegoil,1350.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,1380.0000,1390,,,July,2025/26,Vegoil,1385.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower oil,Refined High Oleic,Ukraine,Vesper Price Index,FCA,USD,,1650,,,July,2025/26,Vegoil,1650.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower oil,Crude High Oleic,Ukraine,Vesper Price Index,FCA,USD,,1510,,,July,2025/26,Vegoil,1510.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower oil,Crude,Ukraine,,EXW,UAH,69000.0000,70000,,,July,2025/26,Vegoil,69500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-13,Sunflower seed,,Russia,Vesper Price Index,FOB,USD,,539,,,July,2025/26,Vegoil,539.0000,,DAILY_PRICES_13-17.07 (4).xlsx,13.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Australia,,FOB,USD,,267,,,July,2026/27,Grain,267.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,205.0000,210,,,August,2026/27,Grain,207.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,France,Rouen,FOB,USD,,227,,,August,2026/27,Grain,227.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,July,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,August,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,July,2026/27,Grain,192.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,August,2026/27,Grain,192.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Ukraine,Odesa,CPT,USD,185.0000,195,,,July,2026/27,Grain,190.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Ukraine,Odesa,CPT,USD,185.0000,195,,,August,2026/27,Grain,190.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Ukraine,Odesa,FOB,USD,200.0000,210,,,July,2026/27,Grain,205.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Ukraine,Odesa,FOB,USD,200.0000,210,,,August,2026/27,Grain,205.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Ukraine,Reni,CPT,USD,183.0000,193,,,July,2026/27,Grain,188.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Ukraine,Reni,CPT,USD,183.0000,193,,,August,2026/27,Grain,188.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Ukraine,,CPT,UAH,9100.0000,9600,,,July,2026/27,Grain,9350.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Barley,Feed,Ukraine,,EXW,UAH,8500.0000,9000,,,July,2026/27,Grain,8750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Argentina,,FOB,USD,,206,,,August,2025/26,Grain,206.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Brazil,,FOB,USD,,222,,,August,2025/26,Grain,222.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,235.0000,240,,,August,2025/26,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Russia,Novorossiysk,FOB,USD,225.0000,230,,,July,2025/26,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Russia,Novorossiysk,FOB,USD,225.0000,230,,,August,2025/26,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Russia,Rostov/Azov,FOB,USD,215.0000,220,,,July,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Russia,Rostov/Azov,FOB,USD,215.0000,220,,,August,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,USA,Gulf,FOB,USD,,216,,,August,2025/26,Grain,216.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Ukraine,Odesa,CPT,USD,215.0000,220,,,July,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Ukraine,Odesa,CPT,USD,217.0000,222,,,October,2025/26,Grain,219.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Ukraine,Odesa,FOB,USD,222.0000,227,,,July,2025/26,Grain,224.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Ukraine,Odesa,FOB,USD,222.0000,227,,,August,2025/26,Grain,224.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Ukraine,Reni,CPT,USD,213.0000,218,,,July,2025/26,Grain,215.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Ukraine,Reni,CPT,USD,213.0000,218,,,August,2025/26,Grain,215.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Ukraine,Western border,DAP,USD,215.0000,220,,,July,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Ukraine,Western border,DAP,USD,217.0000,222,,,October,2025/26,Grain,219.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Ukraine,,CPT,UAH,10400.0000,10900,,,July,2025/26,Grain,10650.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Corn,Feed,Ukraine,,EXW,UAH,9300.0000,9800,,,July,2025/26,Grain,9550.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12%,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,235.0000,240,,,August,2026/27,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,230.0000,235,,,August,2026/27,Grain,232.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 11.5%,France,Rouen,FOB,USD,,237,,,August,2026/27,Grain,237.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,225.0000,230,,,July,2026/27,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,225.0000,230,,,August,2026/27,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,220.0000,225,,,July,2026/27,Grain,222.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,220.0000,225,,,August,2026/27,Grain,222.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Feed,Russia,Novorossiysk,FOB,USD,195.0000,200,,,July,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Feed,Russia,Novorossiysk,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,July,2026/27,Grain,192.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,August,2026/27,Grain,192.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,185.0000,190,,,July,2026/27,Grain,187.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,185.0000,190,,,August,2026/27,Grain,187.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,SRW,USA,Gulf,FOB,USD,,259,,,August,2026/27,Grain,259.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,HRW,USA,Gulf,FOB,USD,,297,,,August,2026/27,Grain,297.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12.5%,Ukraine,Odesa,CPT,USD,212.0000,217,,,July,2026/27,Grain,214.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12.5%,Ukraine,Odesa,CPT,USD,212.0000,217,,,August,2026/27,Grain,214.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 11.5%,Ukraine,Odesa,CPT,USD,210.0000,215,,,July,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 11.5%,Ukraine,Odesa,CPT,USD,210.0000,215,,,August,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Feed,Ukraine,Odesa,CPT,USD,195.0000,200,,,July,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Feed,Ukraine,Odesa,CPT,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12.5%,Ukraine,Odesa,FOB,USD,222.0000,227,,,July,2026/27,Grain,224.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12.5%,Ukraine,Odesa,FOB,USD,222.0000,227,,,August,2026/27,Grain,224.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 11.5%,Ukraine,Odesa,FOB,USD,220.0000,225,,,July,2026/27,Grain,222.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 11.5%,Ukraine,Odesa,FOB,USD,220.0000,225,,,August,2026/27,Grain,222.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Feed,Ukraine,Odesa,FOB,USD,218.0000,223,,,July,2026/27,Grain,220.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Feed,Ukraine,Odesa,FOB,USD,218.0000,223,,,August,2026/27,Grain,220.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,210.0000,215,,,July,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,210.0000,215,,,August,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,208.0000,213,,,July,2026/27,Grain,210.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,208.0000,213,,,August,2026/27,Grain,210.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Feed,Ukraine,Reni,CPT,USD,193.0000,198,,,July,2026/27,Grain,195.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Feed,Ukraine,Reni,CPT,USD,193.0000,198,,,August,2026/27,Grain,195.5000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12.5%,Ukraine,,CPT,UAH,10300.0000,10800,,,July,2026/27,Grain,10550.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Feed,Ukraine,,CPT,UAH,9500.0000,10000,,,July,2026/27,Grain,9750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Milling - 12.5%,Ukraine,,EXW,UAH,9000.0000,9500,,,July,2026/27,Grain,9250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Wheat,Feed,Ukraine,,EXW,UAH,8700.0000,9200,,,July,2026/27,Grain,8950.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybean cake,,Ukraine,,EXW,UAH,19000.0000,19500,,,July,2025/26,Meals,19250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybean meal,,Argentina,,FOB,USD,,343,,,August,2025/26,Meals,343.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybean meal,,Ukraine,,CPT,USD,400.0000,410,,,July,2025/26,Meals,405.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybean meal,,Ukraine,,EXW,UAH,19500.0000,20000,,,July,2025/26,Meals,19750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower cake,,Ukraine,,EXW,UAH,11000.0000,11500,,,July,2025/26,Meals,11250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower meal,,Ukraine,Western border,DAP,USD,250.0000,260,,,July,2025/26,Meals,255.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower meal,,Ukraine,,CPT,USD,230.0000,240,,,July,2025/26,Meals,235.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower meal,,Ukraine,,EXW,UAH,11500.0000,12000,,,July,2025/26,Meals,11750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Linseed,,Ukraine,,EXW,UAH,27000.0000,28000,,,July,2025/26,Oilseeds,27500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Rapeseed,,Europe,Moselle,FOB,USD,,590,,,July,2026/27,Oilseeds,590.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,585.0000,595,,,July,2026/27,Oilseeds,590.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,600.0000,610,,,July,2026/27,Oilseeds,605.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Rapeseed,,Ukraine,Western border,DAP,USD,570.0000,580,,,July,2026/27,Oilseeds,575.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Rapeseed,non-GMO,Ukraine,,CPT,UAH,25500.0000,26500,,,July,2026/27,Oilseeds,26000.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Rapeseed,non-GMO,Ukraine,,EXW,UAH,25000.0000,26000,,,July,2026/27,Oilseeds,25500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybeans,,Argentina,,FOB,USD,,452,,,August,2025/26,Oilseeds,452.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybeans,,Brazil,,FOB,USD,,476,,,August,2025/26,Oilseeds,476.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybeans,,USA,Gulf,FOB,USD,,483,,,August,2025/26,Oilseeds,483.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybeans,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,440.0000,450,,,July,2025/26,Oilseeds,445.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybeans,,Ukraine,Reni,DAP,USD,430.0000,440,,,July,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybeans,,Ukraine,Western border,DAP,USD,430.0000,440,,,July,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybeans,,Ukraine,,CPT,UAH,21000.0000,22000,,,July,2025/26,Oilseeds,21500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybeans,,Ukraine,,EXW,UAH,20000.0000,21000,,,July,2025/26,Oilseeds,20500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower seed,,Bulgaria,Black Sea,FOB,USD,665.0000,675,,,July,2025/26,Oilseeds,670.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower seed,,Romania,Black Sea,FOB,USD,665.0000,675,,,July,2025/26,Oilseeds,670.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower seed,,Ukraine,Western border,DAP,USD,570.0000,580,,,July,2025/26,Oilseeds,575.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower seed,,Ukraine,,CPT,UAH,33000.0000,34000,,,July,2025/26,Oilseeds,33500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower seed,,Ukraine,,EXW,UAH,32000.0000,33000,,,July,2025/26,Oilseeds,32500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Palm oil,Crude,Malaysia,,FOB,USD,,1111,,,July,2025/26,Vegoil,1111.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybean oil,Crude,Argentina,Up-river,FOB,USD,,1162,,,August,2025/26,Vegoil,1162.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Soybean oil,Crude,Ukraine,,EXW,UAH,54000.0000,55000,,,July,2025/26,Vegoil,54500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower oil,Crude,Europe,Six ports,FOB,USD,,1490,,,August,2025/26,Vegoil,1490.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower oil,Crude,Russia,,FOB,USD,1370.0000,1380,,,July,2025/26,Vegoil,1375.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,1345.0000,1355,,,July,2025/26,Vegoil,1350.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,1380.0000,1390,,,July,2025/26,Vegoil,1385.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-14,Sunflower oil,Crude,Ukraine,,EXW,UAH,69000.0000,70000,,,July,2025/26,Vegoil,69500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,14.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Australia,,FOB,USD,,267,,,July,2026/27,Grain,267.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,210.0000,215,,,August,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,France,Rouen,FOB,USD,,231,,,August,2026/27,Grain,231.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Russia,Novorossiysk,FOB,USD,205.0000,210,,,July,2026/27,Grain,207.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Russia,Novorossiysk,FOB,USD,205.0000,210,,,August,2026/27,Grain,207.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Russia,Rostov/Azov,FOB,USD,195.0000,200,,,July,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Russia,Rostov/Azov,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Ukraine,Odesa,CPT,USD,185.0000,195,,,July,2026/27,Grain,190.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Ukraine,Odesa,CPT,USD,185.0000,195,,,August,2026/27,Grain,190.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Ukraine,Odesa,FOB,USD,200.0000,210,,,July,2026/27,Grain,205.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Ukraine,Odesa,FOB,USD,200.0000,210,,,August,2026/27,Grain,205.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Ukraine,Reni,CPT,USD,183.0000,193,,,July,2026/27,Grain,188.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Ukraine,Reni,CPT,USD,183.0000,193,,,August,2026/27,Grain,188.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Ukraine,,CPT,UAH,9100.0000,9600,,,July,2026/27,Grain,9350.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Barley,Feed,Ukraine,,EXW,UAH,8500.0000,9000,,,July,2026/27,Grain,8750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Argentina,,FOB,USD,,202,,,August,2025/26,Grain,202.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Brazil,,FOB,USD,,218,,,August,2025/26,Grain,218.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,235.0000,240,,,August,2025/26,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Russia,Novorossiysk,FOB,USD,225.0000,230,,,July,2025/26,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Russia,Novorossiysk,FOB,USD,225.0000,230,,,August,2025/26,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Russia,Rostov/Azov,FOB,USD,215.0000,220,,,July,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Russia,Rostov/Azov,FOB,USD,215.0000,220,,,August,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,USA,Gulf,FOB,USD,,215,,,August,2025/26,Grain,215.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Ukraine,Odesa,CPT,USD,215.0000,220,,,July,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Ukraine,Odesa,CPT,USD,217.0000,222,,,October,2025/26,Grain,219.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Ukraine,Odesa,FOB,USD,225.0000,230,,,July,2025/26,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Ukraine,Odesa,FOB,USD,225.0000,230,,,August,2025/26,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Ukraine,Reni,CPT,USD,213.0000,218,,,July,2025/26,Grain,215.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Ukraine,Reni,CPT,USD,213.0000,218,,,August,2025/26,Grain,215.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Ukraine,Western border,DAP,USD,215.0000,220,,,July,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Ukraine,Western border,DAP,USD,217.0000,222,,,October,2025/26,Grain,219.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Ukraine,,CPT,UAH,10400.0000,10900,,,July,2025/26,Grain,10650.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Corn,Feed,Ukraine,,EXW,UAH,9300.0000,9800,,,July,2025/26,Grain,9550.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12%,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,235.0000,240,,,August,2026/27,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,230.0000,235,,,August,2026/27,Grain,232.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 11.5%,France,Rouen,FOB,USD,,242,,,August,2026/27,Grain,242.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,235.0000,240,,,July,2026/27,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,235.0000,240,,,August,2026/27,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,230.0000,235,,,July,2026/27,Grain,232.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,230.0000,235,,,August,2026/27,Grain,232.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,July,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,August,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,200.0000,205,,,July,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,200.0000,205,,,August,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,195.0000,200,,,July,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,SRW,USA,Gulf,FOB,USD,,264,,,August,2026/27,Grain,264.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,HRW,USA,Gulf,FOB,USD,,298,,,August,2026/27,Grain,298.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12.5%,Ukraine,Odesa,CPT,USD,212.0000,217,,,July,2026/27,Grain,214.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12.5%,Ukraine,Odesa,CPT,USD,212.0000,217,,,August,2026/27,Grain,214.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 11.5%,Ukraine,Odesa,CPT,USD,210.0000,215,,,July,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 11.5%,Ukraine,Odesa,CPT,USD,210.0000,215,,,August,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Feed,Ukraine,Odesa,CPT,USD,195.0000,200,,,July,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Feed,Ukraine,Odesa,CPT,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12.5%,Ukraine,Odesa,FOB,USD,227.0000,232,,,July,2026/27,Grain,229.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12.5%,Ukraine,Odesa,FOB,USD,227.0000,232,,,August,2026/27,Grain,229.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 11.5%,Ukraine,Odesa,FOB,USD,225.0000,230,,,July,2026/27,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 11.5%,Ukraine,Odesa,FOB,USD,225.0000,230,,,August,2026/27,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Feed,Ukraine,Odesa,FOB,USD,220.0000,225,,,July,2026/27,Grain,222.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Feed,Ukraine,Odesa,FOB,USD,220.0000,225,,,August,2026/27,Grain,222.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,210.0000,215,,,July,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,210.0000,215,,,August,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,208.0000,213,,,July,2026/27,Grain,210.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,208.0000,213,,,August,2026/27,Grain,210.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Feed,Ukraine,Reni,CPT,USD,193.0000,198,,,July,2026/27,Grain,195.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Feed,Ukraine,Reni,CPT,USD,193.0000,198,,,August,2026/27,Grain,195.5000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12.5%,Ukraine,,CPT,UAH,10300.0000,10800,,,July,2026/27,Grain,10550.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Feed,Ukraine,,CPT,UAH,9500.0000,10000,,,July,2026/27,Grain,9750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Milling - 12.5%,Ukraine,,EXW,UAH,9000.0000,9500,,,July,2026/27,Grain,9250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Wheat,Feed,Ukraine,,EXW,UAH,8700.0000,9200,,,July,2026/27,Grain,8950.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybean cake,,Ukraine,,EXW,UAH,19000.0000,19500,,,July,2025/26,Meals,19250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybean meal,,Argentina,,FOB,USD,,347,,,August,2025/26,Meals,347.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybean meal,,Ukraine,,CPT,USD,400.0000,410,,,July,2025/26,Meals,405.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybean meal,,Ukraine,,EXW,UAH,19500.0000,20000,,,July,2025/26,Meals,19750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower cake,,Ukraine,,EXW,UAH,11000.0000,11500,,,July,2025/26,Meals,11250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower meal,,Ukraine,Western border,DAP,USD,250.0000,260,,,July,2025/26,Meals,255.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower meal,,Ukraine,,CPT,USD,230.0000,240,,,July,2025/26,Meals,235.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower meal,,Ukraine,,EXW,UAH,11500.0000,12000,,,July,2025/26,Meals,11750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Linseed,,Ukraine,,EXW,UAH,27000.0000,28000,,,July,2025/26,Oilseeds,27500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Rapeseed,,Europe,Moselle,FOB,USD,,605,,,July,2026/27,Oilseeds,605.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,585.0000,595,,,July,2026/27,Oilseeds,590.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,600.0000,610,,,July,2026/27,Oilseeds,605.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Rapeseed,,Ukraine,Western border,DAP,USD,560.0000,570,,,July,2026/27,Oilseeds,565.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Rapeseed,non-GMO,Ukraine,,CPT,UAH,25500.0000,26500,,,July,2026/27,Oilseeds,26000.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Rapeseed,non-GMO,Ukraine,,EXW,UAH,25000.0000,26000,,,July,2026/27,Oilseeds,25500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybeans,,Argentina,,FOB,USD,,452,,,August,2025/26,Oilseeds,452.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybeans,,Brazil,,FOB,USD,,471,,,August,2025/26,Oilseeds,471.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybeans,,USA,Gulf,FOB,USD,,487,,,August,2025/26,Oilseeds,487.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybeans,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,440.0000,450,,,July,2025/26,Oilseeds,445.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybeans,,Ukraine,Reni,DAP,USD,430.0000,440,,,July,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybeans,,Ukraine,Western border,DAP,USD,430.0000,440,,,July,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybeans,,Ukraine,,CPT,UAH,21000.0000,22000,,,July,2025/26,Oilseeds,21500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybeans,,Ukraine,,EXW,UAH,20000.0000,21000,,,July,2025/26,Oilseeds,20500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower seed,,Bulgaria,Black Sea,FOB,USD,665.0000,675,,,July,2025/26,Oilseeds,670.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower seed,,Romania,Black Sea,FOB,USD,665.0000,675,,,July,2025/26,Oilseeds,670.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower seed,,Ukraine,Western border,DAP,USD,570.0000,580,,,July,2025/26,Oilseeds,575.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower seed,,Ukraine,,CPT,UAH,32500.0000,33500,,,July,2025/26,Oilseeds,33000.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower seed,,Ukraine,,EXW,UAH,31500.0000,32500,,,July,2025/26,Oilseeds,32000.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Palm oil,Crude,Malaysia,,FOB,USD,,1109,,,July,2025/26,Vegoil,1109.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybean oil,Crude,Argentina,Up-river,FOB,USD,,1174,,,August,2025/26,Vegoil,1174.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Soybean oil,Crude,Ukraine,,EXW,UAH,54000.0000,55000,,,July,2025/26,Vegoil,54500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower oil,Crude,Europe,Six ports,FOB,USD,,1500,,,August,2025/26,Vegoil,1500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower oil,Crude,Russia,,FOB,USD,1370.0000,1380,,,July,2025/26,Vegoil,1375.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,1345.0000,1355,,,July,2025/26,Vegoil,1350.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,1380.0000,1390,,,July,2025/26,Vegoil,1385.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-15,Sunflower oil,Crude,Ukraine,,EXW,UAH,69000.0000,70000,,,July,2025/26,Vegoil,69500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,15.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Australia,,FOB,USD,,267,,,July,2026/27,Grain,267.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,215.0000,220,,,August,2026/27,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,France,Rouen,FOB,USD,,232,,,August,2026/27,Grain,232.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Russia,Novorossiysk,FOB,USD,205.0000,210,,,July,2026/27,Grain,207.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Russia,Novorossiysk,FOB,USD,205.0000,210,,,August,2026/27,Grain,207.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Russia,Rostov/Azov,FOB,USD,195.0000,200,,,July,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Russia,Rostov/Azov,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Ukraine,Odesa,CPT,USD,182.0000,192,,,July,2026/27,Grain,187.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Ukraine,Odesa,CPT,USD,182.0000,192,,,August,2026/27,Grain,187.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Ukraine,Odesa,FOB,USD,195.0000,205,,,July,2026/27,Grain,200.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Ukraine,Odesa,FOB,USD,195.0000,205,,,August,2026/27,Grain,200.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Ukraine,Reni,CPT,USD,180.0000,190,,,July,2026/27,Grain,185.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Ukraine,Reni,CPT,USD,180.0000,190,,,August,2026/27,Grain,185.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Ukraine,,CPT,UAH,8700.0000,9300,,,July,2026/27,Grain,9000.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Barley,Feed,Ukraine,,EXW,UAH,8200.0000,8700,,,July,2026/27,Grain,8450.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Argentina,,FOB,USD,,206,,,August,2025/26,Grain,206.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Brazil,,FOB,USD,,222,,,August,2025/26,Grain,222.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,235.0000,240,,,August,2025/26,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Russia,Novorossiysk,FOB,USD,225.0000,230,,,July,2025/26,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Russia,Novorossiysk,FOB,USD,225.0000,230,,,August,2025/26,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Russia,Rostov/Azov,FOB,USD,215.0000,220,,,July,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Russia,Rostov/Azov,FOB,USD,215.0000,220,,,August,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,USA,Gulf,FOB,USD,,219,,,August,2025/26,Grain,219.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Ukraine,Odesa,CPT,USD,213.0000,218,,,July,2025/26,Grain,215.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Ukraine,Odesa,CPT,USD,217.0000,222,,,October,2025/26,Grain,219.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Ukraine,Odesa,FOB,USD,223.0000,228,,,July,2025/26,Grain,225.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Ukraine,Odesa,FOB,USD,223.0000,228,,,August,2025/26,Grain,225.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Ukraine,Reni,CPT,USD,211.0000,216,,,July,2025/26,Grain,213.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Ukraine,Reni,CPT,USD,211.0000,216,,,August,2025/26,Grain,213.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Ukraine,Western border,DAP,USD,213.0000,218,,,July,2025/26,Grain,215.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Ukraine,Western border,DAP,USD,217.0000,222,,,October,2025/26,Grain,219.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Ukraine,,CPT,UAH,10000.0000,10500,,,July,2025/26,Grain,10250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Corn,Feed,Ukraine,,EXW,UAH,9000.0000,9500,,,July,2025/26,Grain,9250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12%,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,240.0000,245,,,August,2026/27,Grain,242.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,235.0000,240,,,August,2026/27,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 11.5%,France,Rouen,FOB,USD,,246,,,August,2026/27,Grain,246.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,235.0000,240,,,July,2026/27,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,235.0000,240,,,August,2026/27,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,230.0000,235,,,July,2026/27,Grain,232.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,230.0000,235,,,August,2026/27,Grain,232.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,July,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,August,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,200.0000,205,,,July,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,200.0000,205,,,August,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,195.0000,200,,,July,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,SRW,USA,Gulf,FOB,USD,,265,,,August,2026/27,Grain,265.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,HRW,USA,Gulf,FOB,USD,,304,,,August,2026/27,Grain,304.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12.5%,Ukraine,Odesa,CPT,USD,210.0000,215,,,July,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12.5%,Ukraine,Odesa,CPT,USD,210.0000,215,,,August,2026/27,Grain,212.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 11.5%,Ukraine,Odesa,CPT,USD,208.0000,213,,,July,2026/27,Grain,210.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 11.5%,Ukraine,Odesa,CPT,USD,208.0000,213,,,August,2026/27,Grain,210.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Feed,Ukraine,Odesa,CPT,USD,193.0000,198,,,July,2026/27,Grain,195.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Feed,Ukraine,Odesa,CPT,USD,193.0000,198,,,August,2026/27,Grain,195.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12.5%,Ukraine,Odesa,FOB,USD,225.0000,230,,,July,2026/27,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12.5%,Ukraine,Odesa,FOB,USD,225.0000,230,,,August,2026/27,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 11.5%,Ukraine,Odesa,FOB,USD,223.0000,228,,,July,2026/27,Grain,225.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 11.5%,Ukraine,Odesa,FOB,USD,223.0000,228,,,August,2026/27,Grain,225.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Feed,Ukraine,Odesa,FOB,USD,218.0000,223,,,July,2026/27,Grain,220.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Feed,Ukraine,Odesa,FOB,USD,218.0000,223,,,August,2026/27,Grain,220.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,208.0000,213,,,July,2026/27,Grain,210.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,208.0000,213,,,August,2026/27,Grain,210.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,206.0000,211,,,July,2026/27,Grain,208.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,206.0000,211,,,August,2026/27,Grain,208.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Feed,Ukraine,Reni,CPT,USD,191.0000,196,,,July,2026/27,Grain,193.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Feed,Ukraine,Reni,CPT,USD,191.0000,196,,,August,2026/27,Grain,193.5000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12.5%,Ukraine,,CPT,UAH,9800.0000,10300,,,July,2026/27,Grain,10050.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Feed,Ukraine,,CPT,UAH,9000.0000,9500,,,July,2026/27,Grain,9250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Milling - 12.5%,Ukraine,,EXW,UAH,8500.0000,9000,,,July,2026/27,Grain,8750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Wheat,Feed,Ukraine,,EXW,UAH,8000.0000,8500,,,July,2026/27,Grain,8250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybean cake,,Ukraine,,EXW,UAH,19000.0000,19500,,,July,2025/26,Meals,19250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybean meal,,Argentina,,FOB,USD,,346,,,August,2025/26,Meals,346.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybean meal,,Ukraine,,CPT,USD,390.0000,400,,,July,2025/26,Meals,395.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybean meal,,Ukraine,,EXW,UAH,19500.0000,20000,,,July,2025/26,Meals,19750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower cake,,Ukraine,,EXW,UAH,11000.0000,11500,,,July,2025/26,Meals,11250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower meal,,Ukraine,Western border,DAP,USD,250.0000,260,,,July,2025/26,Meals,255.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower meal,,Ukraine,,CPT,USD,230.0000,240,,,July,2025/26,Meals,235.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower meal,,Ukraine,,EXW,UAH,11500.0000,12000,,,July,2025/26,Meals,11750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Linseed,,Ukraine,,EXW,UAH,26000.0000,27000,,,July,2025/26,Oilseeds,26500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Rapeseed,,Europe,Moselle,FOB,USD,,623,,,July,2026/27,Oilseeds,623.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,575.0000,585,,,July,2026/27,Oilseeds,580.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,590.0000,600,,,July,2026/27,Oilseeds,595.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Rapeseed,,Ukraine,Western border,DAP,USD,555.0000,565,,,July,2026/27,Oilseeds,560.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Rapeseed,non-GMO,Ukraine,,CPT,UAH,25000.0000,26000,,,July,2026/27,Oilseeds,25500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Rapeseed,non-GMO,Ukraine,,EXW,UAH,24500.0000,25500,,,July,2026/27,Oilseeds,25000.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybeans,,Argentina,,FOB,USD,,456,,,August,2025/26,Oilseeds,456.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybeans,,Brazil,,FOB,USD,,478,,,August,2025/26,Oilseeds,478.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybeans,,USA,Gulf,FOB,USD,,485,,,August,2025/26,Oilseeds,485.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybeans,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,440.0000,450,,,July,2025/26,Oilseeds,445.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybeans,,Ukraine,Reni,DAP,USD,430.0000,440,,,July,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybeans,,Ukraine,Western border,DAP,USD,430.0000,440,,,July,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybeans,,Ukraine,,CPT,UAH,20500.0000,21500,,,July,2025/26,Oilseeds,21000.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybeans,,Ukraine,,EXW,UAH,20000.0000,21000,,,July,2025/26,Oilseeds,20500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower seed,,Bulgaria,Black Sea,FOB,USD,665.0000,675,,,July,2025/26,Oilseeds,670.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower seed,,Romania,Black Sea,FOB,USD,665.0000,675,,,July,2025/26,Oilseeds,670.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower seed,,Ukraine,Western border,DAP,USD,570.0000,580,,,July,2025/26,Oilseeds,575.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower seed,,Ukraine,,CPT,UAH,32000.0000,33000,,,July,2025/26,Oilseeds,32500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower seed,,Ukraine,,EXW,UAH,31000.0000,32000,,,July,2025/26,Oilseeds,31500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Palm oil,Crude,Malaysia,,FOB,USD,,1111,,,July,2025/26,Vegoil,1111.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybean oil,Crude,Argentina,Up-river,FOB,USD,,1182,,,August,2025/26,Vegoil,1182.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Soybean oil,Crude,Ukraine,,EXW,UAH,54000.0000,55000,,,July,2025/26,Vegoil,54500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower oil,Crude,Europe,Six ports,FOB,USD,,1500,,,August,2025/26,Vegoil,1500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower oil,Crude,Russia,,FOB,USD,1370.0000,1380,,,July,2025/26,Vegoil,1375.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,1345.0000,1355,,,July,2025/26,Vegoil,1350.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,1380.0000,1390,,,July,2025/26,Vegoil,1385.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-16,Sunflower oil,Crude,Ukraine,,EXW,UAH,69000.0000,70000,,,July,2025/26,Vegoil,69500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,16.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Australia,,FOB,USD,,267,,,July,2026/27,Grain,267.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,215.0000,220,,,August,2026/27,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,France,Rouen,FOB,USD,,232,,,August,2026/27,Grain,232.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Russia,Novorossiysk,FOB,USD,205.0000,210,,,July,2026/27,Grain,207.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Russia,Novorossiysk,FOB,USD,205.0000,210,,,August,2026/27,Grain,207.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Russia,Rostov/Azov,FOB,USD,195.0000,200,,,July,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Russia,Rostov/Azov,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Ukraine,Odesa,CPT,USD,180.0000,190,,,July,2026/27,Grain,185.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Ukraine,Odesa,CPT,USD,180.0000,190,,,August,2026/27,Grain,185.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Ukraine,Odesa,FOB,USD,195.0000,205,,,July,2026/27,Grain,200.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Ukraine,Odesa,FOB,USD,195.0000,205,,,August,2026/27,Grain,200.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Ukraine,Reni,CPT,USD,178.0000,188,,,July,2026/27,Grain,183.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Ukraine,Reni,CPT,USD,178.0000,188,,,August,2026/27,Grain,183.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Ukraine,,CPT,UAH,8700.0000,9200,,,July,2026/27,Grain,8950.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Barley,Feed,Ukraine,,EXW,UAH,8000.0000,8500,,,July,2026/27,Grain,8250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Argentina,,FOB,USD,,203,,,August,2025/26,Grain,203.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Brazil,,FOB,USD,,219,,,August,2025/26,Grain,219.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,235.0000,240,,,August,2025/26,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Russia,Novorossiysk,FOB,USD,225.0000,230,,,July,2025/26,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Russia,Novorossiysk,FOB,USD,225.0000,230,,,August,2025/26,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Russia,Rostov/Azov,FOB,USD,215.0000,220,,,July,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Russia,Rostov/Azov,FOB,USD,215.0000,220,,,August,2025/26,Grain,217.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,USA,Gulf,FOB,USD,,216,,,August,2025/26,Grain,216.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Ukraine,Odesa,CPT,USD,213.0000,218,,,July,2025/26,Grain,215.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Ukraine,Odesa,CPT,USD,217.0000,222,,,October,2025/26,Grain,219.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Ukraine,Odesa,FOB,USD,223.0000,228,,,July,2025/26,Grain,225.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Ukraine,Odesa,FOB,USD,223.0000,228,,,August,2025/26,Grain,225.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Ukraine,Reni,CPT,USD,211.0000,216,,,July,2025/26,Grain,213.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Ukraine,Reni,CPT,USD,211.0000,216,,,August,2025/26,Grain,213.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Ukraine,Western border,DAP,USD,213.0000,218,,,July,2025/26,Grain,215.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Ukraine,Western border,DAP,USD,217.0000,222,,,October,2025/26,Grain,219.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Ukraine,,CPT,UAH,10300.0000,10800,,,July,2025/26,Grain,10550.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Corn,Feed,Ukraine,,EXW,UAH,9000.0000,9500,,,July,2025/26,Grain,9250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12%,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,240.0000,245,,,August,2026/27,Grain,242.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,235.0000,240,,,August,2026/27,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 11.5%,France,Rouen,FOB,USD,,241,,,August,2026/27,Grain,241.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,235.0000,240,,,July,2026/27,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,235.0000,240,,,August,2026/27,Grain,237.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,230.0000,235,,,July,2026/27,Grain,232.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,230.0000,235,,,August,2026/27,Grain,232.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,July,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,August,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,200.0000,205,,,July,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,200.0000,205,,,August,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,195.0000,200,,,July,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,SRW,USA,Gulf,FOB,USD,,265,,,August,2026/27,Grain,265.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,HRW,USA,Gulf,FOB,USD,,302,,,August,2026/27,Grain,302.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12.5%,Ukraine,Odesa,CPT,USD,205.0000,210,,,July,2026/27,Grain,207.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12.5%,Ukraine,Odesa,CPT,USD,205.0000,210,,,August,2026/27,Grain,207.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 11.5%,Ukraine,Odesa,CPT,USD,200.0000,205,,,July,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 11.5%,Ukraine,Odesa,CPT,USD,200.0000,205,,,August,2026/27,Grain,202.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Feed,Ukraine,Odesa,CPT,USD,190.0000,195,,,July,2026/27,Grain,192.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Feed,Ukraine,Odesa,CPT,USD,190.0000,195,,,August,2026/27,Grain,192.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12.5%,Ukraine,Odesa,FOB,USD,225.0000,230,,,July,2026/27,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12.5%,Ukraine,Odesa,FOB,USD,225.0000,230,,,August,2026/27,Grain,227.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 11.5%,Ukraine,Odesa,FOB,USD,223.0000,228,,,July,2026/27,Grain,225.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 11.5%,Ukraine,Odesa,FOB,USD,223.0000,228,,,August,2026/27,Grain,225.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Feed,Ukraine,Odesa,FOB,USD,218.0000,223,,,July,2026/27,Grain,220.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Feed,Ukraine,Odesa,FOB,USD,218.0000,223,,,August,2026/27,Grain,220.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,203.0000,208,,,July,2026/27,Grain,205.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,203.0000,208,,,August,2026/27,Grain,205.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,198.0000,203,,,July,2026/27,Grain,200.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,198.0000,203,,,August,2026/27,Grain,200.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Feed,Ukraine,Reni,CPT,USD,188.0000,193,,,July,2026/27,Grain,190.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Feed,Ukraine,Reni,CPT,USD,188.0000,193,,,August,2026/27,Grain,190.5000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12.5%,Ukraine,,CPT,UAH,9600.0000,10100,,,July,2026/27,Grain,9850.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Feed,Ukraine,,CPT,UAH,9000.0000,9500,,,July,2026/27,Grain,9250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Milling - 12.5%,Ukraine,,EXW,UAH,8500.0000,9000,,,July,2026/27,Grain,8750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Wheat,Feed,Ukraine,,EXW,UAH,7700.0000,8200,,,July,2026/27,Grain,7950.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybean cake,,Ukraine,,EXW,UAH,19000.0000,19500,,,July,2025/26,Meals,19250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybean meal,,Argentina,,FOB,USD,,348,,,August,2025/26,Meals,348.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybean meal,,Ukraine,,CPT,USD,390.0000,400,,,July,2025/26,Meals,395.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybean meal,,Ukraine,,EXW,UAH,19500.0000,20000,,,July,2025/26,Meals,19750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower cake,,Ukraine,,EXW,UAH,11000.0000,11500,,,July,2025/26,Meals,11250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower meal,,Ukraine,Western border,DAP,USD,245.0000,255,,,July,2025/26,Meals,250.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower meal,,Ukraine,,CPT,USD,225.0000,235,,,July,2025/26,Meals,230.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower meal,,Ukraine,,EXW,UAH,11500.0000,12000,,,July,2025/26,Meals,11750.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Linseed,,Ukraine,,EXW,UAH,25000.0000,26000,,,July,2025/26,Oilseeds,25500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Rapeseed,,Europe,Moselle,FOB,USD,,616,,,July,2026/27,Oilseeds,616.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Rapeseed,,Romania,,CPT,EUR,520.0000,522,,,July,2026/27,Oilseeds,521.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,575.0000,585,,,July,2026/27,Oilseeds,580.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,590.0000,600,,,July,2026/27,Oilseeds,595.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Rapeseed,,Ukraine,Western border,DAP,USD,555.0000,565,,,July,2026/27,Oilseeds,560.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Rapeseed,non-GMO,Ukraine,,CPT,UAH,25000.0000,26000,,,July,2026/27,Oilseeds,25500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Rapeseed,non-GMO,Ukraine,,EXW,UAH,24500.0000,25500,,,July,2026/27,Oilseeds,25000.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybeans,,Argentina,,FOB,USD,,453,,,August,2025/26,Oilseeds,453.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybeans,,Brazil,,FOB,USD,,475,,,August,2025/26,Oilseeds,475.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybeans,,USA,Gulf,FOB,USD,,483,,,August,2025/26,Oilseeds,483.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybeans,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,440.0000,450,,,July,2025/26,Oilseeds,445.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybeans,,Ukraine,Reni,DAP,USD,430.0000,440,,,July,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybeans,,Ukraine,Western border,DAP,USD,430.0000,440,,,July,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybeans,,Ukraine,,CPT,UAH,20500.0000,21500,,,July,2025/26,Oilseeds,21000.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybeans,,Ukraine,,EXW,UAH,19500.0000,20500,,,July,2025/26,Oilseeds,20000.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower seed,,Bulgaria,Black Sea,FOB,USD,665.0000,675,,,July,2025/26,Oilseeds,670.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower seed,,Romania,Black Sea,FOB,USD,665.0000,675,,,July,2025/26,Oilseeds,670.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower seed,,Ukraine,Western border,DAP,USD,570.0000,580,,,July,2025/26,Oilseeds,575.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower seed,,Ukraine,,CPT,UAH,32000.0000,33000,,,July,2025/26,Oilseeds,32500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower seed,,Ukraine,,EXW,UAH,31000.0000,32000,,,July,2025/26,Oilseeds,31500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Palm oil,Crude,Malaysia,,FOB,USD,,1108,,,July,2025/26,Vegoil,1108.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybean oil,Crude,Argentina,Up-river,FOB,USD,,1178,,,August,2025/26,Vegoil,1178.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Soybean oil,Crude,Ukraine,,EXW,UAH,54000.0000,55000,,,July,2025/26,Vegoil,54500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower oil,Crude,Europe,Six ports,FOB,USD,,1495,,,August,2025/26,Vegoil,1495.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower oil,Crude,Russia,,FOB,USD,1360.0000,1370,,,July,2025/26,Vegoil,1365.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,1335.0000,1345,,,July,2025/26,Vegoil,1340.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,1370.0000,1380,,,July,2025/26,Vegoil,1375.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-07-17,Sunflower oil,Crude,Ukraine,,EXW,UAH,69000.0000,70000,,,July,2025/26,Vegoil,69500.0000,,DAILY_PRICES_13-17.07 (4).xlsx,17.07.2026_min_max,2026-07-17
+2026-08-10,Barley,Feed,Australia,,FOB,USD,,267,,,August,2026/27,Grain,267.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Barley,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,223.0000,228,,,August,2026/27,Grain,225.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Barley,Feed,France,Rouen,FOB,USD,,248,,,August,2026/27,Grain,248.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Barley,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,August,2026/27,Grain,202.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Barley,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,September,2026/27,Grain,202.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Barley,Feed,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,August,2026/27,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Barley,Feed,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,September,2026/27,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Barley,Feed,Ukraine,Izmail,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Barley,Feed,Ukraine,Izmail,FOB,USD,195.0000,200,,,September,2026/27,Grain,197.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Barley,Feed,Ukraine,Reni,CPT,USD,170.0000,180,,,August,2026/27,Grain,175.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Barley,Feed,Ukraine,Reni,CPT,USD,170.0000,180,,,September,2026/27,Grain,175.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Barley,Feed,Ukraine,,CPT,UAH,7700.0000,8200,,,August,2026/27,Grain,7950.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Barley,Feed,Ukraine,,EXW,UAH,6500.0000,7000,,,August,2026/27,Grain,6750.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Argentina,,FOB,USD,,206,,,August,2025/26,Grain,206.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Brazil,,FOB,USD,,220,,,August,2025/26,Grain,220.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,250.0000,255,,,August,2025/26,Grain,252.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Russia,Novorossiysk,FOB,USD,215.0000,220,,,August,2025/26,Grain,217.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Russia,Novorossiysk,FOB,USD,220.0000,230,,,September,2026/27,Grain,225.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Russia,Rostov/Azov,FOB,USD,205.0000,210,,,August,2025/26,Grain,207.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Russia,Rostov/Azov,FOB,USD,210.0000,215,,,September,2026/27,Grain,212.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,USA,Gulf,FOB,USD,,220,,,August,2025/26,Grain,220.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Ukraine,Izmail,FOB,USD,200.0000,205,,,August,2025/26,Grain,202.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Ukraine,Izmail,FOB,USD,225.0000,230,,,September,2026/27,Grain,227.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Ukraine,Reni,CPT,USD,190.0000,195,,,August,2025/26,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Ukraine,Reni,CPT,USD,213.0000,219,,,September,2026/27,Grain,216.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Ukraine,Western border,DAP,USD,215.0000,220,,,August,2025/26,Grain,217.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Ukraine,Western border,DAP,USD,222.0000,227,,,September,2026/27,Grain,224.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Ukraine,,CPT,UAH,8000.0000,9000,,,August,2025/26,Grain,8500.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Corn,Feed,Ukraine,,EXW,UAH,7500.0000,8500,,,August,2025/26,Grain,8000.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 12%,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,248.0000,253,,,August,2026/27,Grain,250.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,233.0000,238,,,August,2026/27,Grain,235.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 11.5%,France,Rouen,FOB,USD,,257,,,August,2026/27,Grain,257.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,221.0000,226,,,August,2026/27,Grain,223.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,221.0000,226,,,September,2026/27,Grain,223.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,215.0000,220,,,August,2026/27,Grain,217.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,215.0000,220,,,September,2026/27,Grain,217.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Feed,Russia,Novorossiysk,FOB,USD,185.0000,190,,,August,2026/27,Grain,187.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Feed,Russia,Novorossiysk,FOB,USD,185.0000,190,,,September,2026/27,Grain,187.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,186.0000,191,,,August,2026/27,Grain,188.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,186.0000,191,,,September,2026/27,Grain,188.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,180.0000,185,,,August,2026/27,Grain,182.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,180.0000,185,,,September,2026/27,Grain,182.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,SRW,USA,Gulf,FOB,USD,,271,,,August,2026/27,Grain,271.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,HRW,USA,Gulf,FOB,USD,,317,,,August,2026/27,Grain,317.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 12.5%,Ukraine,Izmail,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 12.5%,Ukraine,Izmail,FOB,USD,195.0000,200,,,September,2026/27,Grain,197.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 11.5%,Ukraine,Izmail,FOB,USD,190.0000,195,,,August,2026/27,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 11.5%,Ukraine,Izmail,FOB,USD,190.0000,195,,,September,2026/27,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Feed,Ukraine,Izmail,FOB,USD,185.0000,190,,,August,2026/27,Grain,187.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Feed,Ukraine,Izmail,FOB,USD,185.0000,190,,,September,2026/27,Grain,187.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,172.0000,177,,,August,2026/27,Grain,174.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,172.0000,177,,,September,2026/27,Grain,174.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,170.0000,175,,,August,2026/27,Grain,172.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,170.0000,175,,,September,2026/27,Grain,172.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Feed,Ukraine,Reni,CPT,USD,165.0000,170,,,August,2026/27,Grain,167.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Feed,Ukraine,Reni,CPT,USD,165.0000,170,,,September,2026/27,Grain,167.5000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 12.5%,Ukraine,,CPT,UAH,8700.0000,9200,,,August,2026/27,Grain,8950.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Feed,Ukraine,,CPT,UAH,8000.0000,8500,,,August,2026/27,Grain,8250.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Milling - 12.5%,Ukraine,,EXW,UAH,7000.0000,8000,,,August,2026/27,Grain,7500.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Wheat,Feed,Ukraine,,EXW,UAH,6000.0000,7000,,,August,2026/27,Grain,6500.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybean cake,,Ukraine,,EXW,UAH,18600.0000,19100,,,August,2025/26,Meals,18850.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybean meal,,Argentina,,FOB,USD,,340,,,August,2025/26,Meals,340.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybean meal,,Ukraine,,CPT,USD,385.0000,395,,,August,2025/26,Meals,390.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybean meal,,Ukraine,,EXW,UAH,19100.0000,19600,,,August,2025/26,Meals,19350.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower cake,,Ukraine,,EXW,UAH,11700.0000,12200,,,August,2025/26,Meals,11950.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower meal,,Ukraine,Western border,DAP,USD,250.0000,260,,,August,2025/26,Meals,255.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower meal,,Ukraine,,CPT,USD,220.0000,230,,,August,2025/26,Meals,225.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower meal,,Ukraine,,EXW,UAH,12200.0000,12700,,,August,2025/26,Meals,12450.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Linseed,,Ukraine,,EXW,UAH,24000.0000,25000,,,August,2025/26,Oilseeds,24500.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Rapeseed,,Europe,Moselle,FOB,USD,,618,,,August,2026/27,Oilseeds,618.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,480.0000,490,,,August,2026/27,Oilseeds,485.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,495.0000,505,,,August,2026/27,Oilseeds,500.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Rapeseed,,Ukraine,Western border,DAP,USD,480.0000,490,,,August,2026/27,Oilseeds,485.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Rapeseed,non-GMO,Ukraine,,CPT,UAH,20500.0000,22500,,,August,2026/27,Oilseeds,21500.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Rapeseed,non-GMO,Ukraine,,EXW,UAH,20000.0000,21000,,,August,2026/27,Oilseeds,20500.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybeans,,Argentina,,FOB,USD,,452,,,August,2025/26,Oilseeds,452.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybeans,,Brazil,,FOB,USD,,480,,,August,2025/26,Oilseeds,480.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybeans,,USA,Gulf,FOB,USD,,481,,,August,2025/26,Oilseeds,481.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybeans,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,430.0000,440,,,August,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybeans,,Ukraine,Reni,DAP,USD,430.0000,440,,,August,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybeans,,Ukraine,Western border,DAP,USD,440.0000,450,,,August,2025/26,Oilseeds,445.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybeans,,Ukraine,,CPT,UAH,20000.0000,21000,,,August,2025/26,Oilseeds,20500.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybeans,,Ukraine,,EXW,UAH,19500.0000,20500,,,August,2025/26,Oilseeds,20000.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower seed,,Bulgaria,Black Sea,FOB,USD,625.0000,635,,,August,2025/26,Oilseeds,630.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower seed,,Romania,Black Sea,FOB,USD,625.0000,635,,,August,2025/26,Oilseeds,630.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower seed,,Ukraine,Western border,DAP,USD,540.0000,550,,,August,2025/26,Oilseeds,545.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower seed,,Ukraine,,CPT,UAH,30000.0000,31500,,,August,2025/26,Oilseeds,30750.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower seed,,Ukraine,,EXW,UAH,29000.0000,31000,,,August,2025/26,Oilseeds,30000.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Palm oil,Crude,Malaysia,,FOB,USD,,1113,,,August,2025/26,Vegoil,1113.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Rapeseed oil,,Europe,Vesper Price Index,FOB,EUR,,1270,,,August,2025/26,Vegoil,1270.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybean oil,Crude,Argentina,Up-river,FOB,USD,,1184,,,August,2025/26,Vegoil,1184.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Soybean oil,Crude,Ukraine,,EXW,UAH,56000.0000,57000,,,August,2025/26,Vegoil,56500.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower oil,Crude,Europe,Six ports,FOB,USD,,1520,,,August,2025/26,Vegoil,1520.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower oil,Crude,Russia,,FOB,USD,1360.0000,1370,,,August,2025/26,Vegoil,1365.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,1320.0000,1330,,,August,2025/26,Vegoil,1325.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,1370.0000,1380,,,August,2025/26,Vegoil,1375.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower oil,Crude,Ukraine,Izmail,FOB,USD,1350.0000,1360,,,August,2025/26,Vegoil,1355.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower oil,Refined High Oleic,Ukraine,Vesper Price Index,FCA,USD,,1610,,,August,2025/26,Vegoil,1610.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower oil,Crude High Oleic,Ukraine,Vesper Price Index,FCA,USD,,1490,,,August,2025/26,Vegoil,1490.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower oil,Crude,Ukraine,,EXW,UAH,69000.0000,70000,,,August,2025/26,Vegoil,69500.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-10,Sunflower seed,,Russia,Vesper Price Index,FOB,USD,,511,,,August,2025/26,Vegoil,511.0000,,DAILY_PRICES_13.08.xlsx,10.08.2026_min_max ,2026-08-13
+2026-08-11,Barley,Feed,Australia,,FOB,USD,,267,,,August,2026/27,Grain,267.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Barley,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,223.0000,228,,,August,2026/27,Grain,225.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Barley,Feed,France,Rouen,FOB,USD,,248,,,August,2026/27,Grain,248.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Barley,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,August,2026/27,Grain,202.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Barley,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,September,2026/27,Grain,202.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Barley,Feed,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,August,2026/27,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Barley,Feed,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,September,2026/27,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Barley,Feed,Ukraine,Izmail,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Barley,Feed,Ukraine,Izmail,FOB,USD,195.0000,200,,,September,2026/27,Grain,197.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Barley,Feed,Ukraine,Reni,CPT,USD,170.0000,180,,,August,2026/27,Grain,175.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Barley,Feed,Ukraine,Reni,CPT,USD,170.0000,180,,,September,2026/27,Grain,175.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Barley,Feed,Ukraine,,CPT,UAH,7700.0000,8200,,,August,2026/27,Grain,7950.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Barley,Feed,Ukraine,,EXW,UAH,6500.0000,7000,,,August,2026/27,Grain,6750.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Argentina,,FOB,USD,,206,,,August,2025/26,Grain,206.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Brazil,,FOB,USD,,220,,,August,2025/26,Grain,220.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,250.0000,255,,,August,2025/26,Grain,252.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Russia,Novorossiysk,FOB,USD,215.0000,220,,,August,2025/26,Grain,217.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Russia,Novorossiysk,FOB,USD,220.0000,230,,,September,2026/27,Grain,225.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Russia,Rostov/Azov,FOB,USD,205.0000,210,,,August,2025/26,Grain,207.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Russia,Rostov/Azov,FOB,USD,210.0000,215,,,September,2026/27,Grain,212.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,USA,Gulf,FOB,USD,,220,,,August,2025/26,Grain,220.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Ukraine,Izmail,FOB,USD,200.0000,205,,,August,2025/26,Grain,202.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Ukraine,Izmail,FOB,USD,225.0000,230,,,September,2026/27,Grain,227.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Ukraine,Reni,CPT,USD,190.0000,195,,,August,2025/26,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Ukraine,Reni,CPT,USD,213.0000,219,,,September,2026/27,Grain,216.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Ukraine,Western border,DAP,USD,215.0000,220,,,August,2025/26,Grain,217.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Ukraine,Western border,DAP,USD,222.0000,227,,,September,2026/27,Grain,224.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Ukraine,,CPT,UAH,8000.0000,9000,,,August,2025/26,Grain,8500.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Corn,Feed,Ukraine,,EXW,UAH,7500.0000,8500,,,August,2025/26,Grain,8000.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 12%,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,248.0000,253,,,August,2026/27,Grain,250.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,233.0000,238,,,August,2026/27,Grain,235.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 11.5%,France,Rouen,FOB,USD,,256,,,August,2026/27,Grain,256.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,221.0000,226,,,August,2026/27,Grain,223.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,221.0000,226,,,September,2026/27,Grain,223.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,215.0000,220,,,August,2026/27,Grain,217.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,215.0000,220,,,September,2026/27,Grain,217.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Feed,Russia,Novorossiysk,FOB,USD,185.0000,190,,,August,2026/27,Grain,187.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Feed,Russia,Novorossiysk,FOB,USD,185.0000,190,,,September,2026/27,Grain,187.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,186.0000,191,,,August,2026/27,Grain,188.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,186.0000,191,,,September,2026/27,Grain,188.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,180.0000,185,,,August,2026/27,Grain,182.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,180.0000,185,,,September,2026/27,Grain,182.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,SRW,USA,Gulf,FOB,USD,,268,,,August,2026/27,Grain,268.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,HRW,USA,Gulf,FOB,USD,,316,,,August,2026/27,Grain,316.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 12.5%,Ukraine,Izmail,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 12.5%,Ukraine,Izmail,FOB,USD,195.0000,200,,,September,2026/27,Grain,197.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 11.5%,Ukraine,Izmail,FOB,USD,190.0000,195,,,August,2026/27,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 11.5%,Ukraine,Izmail,FOB,USD,190.0000,195,,,September,2026/27,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Feed,Ukraine,Izmail,FOB,USD,185.0000,190,,,August,2026/27,Grain,187.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Feed,Ukraine,Izmail,FOB,USD,185.0000,190,,,September,2026/27,Grain,187.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,172.0000,177,,,August,2026/27,Grain,174.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,172.0000,177,,,September,2026/27,Grain,174.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,170.0000,175,,,August,2026/27,Grain,172.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,170.0000,175,,,September,2026/27,Grain,172.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Feed,Ukraine,Reni,CPT,USD,165.0000,170,,,August,2026/27,Grain,167.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Feed,Ukraine,Reni,CPT,USD,165.0000,170,,,September,2026/27,Grain,167.5000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 12.5%,Ukraine,,CPT,UAH,8700.0000,9200,,,August,2026/27,Grain,8950.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Feed,Ukraine,,CPT,UAH,8000.0000,8500,,,August,2026/27,Grain,8250.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Milling - 12.5%,Ukraine,,EXW,UAH,7000.0000,8000,,,August,2026/27,Grain,7500.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Wheat,Feed,Ukraine,,EXW,UAH,6000.0000,7000,,,August,2026/27,Grain,6500.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybean cake,,Ukraine,,EXW,UAH,18600.0000,19100,,,August,2025/26,Meals,18850.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybean meal,,Argentina,,FOB,USD,,338,,,August,2025/26,Meals,338.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybean meal,,Ukraine,,CPT,USD,385.0000,395,,,August,2025/26,Meals,390.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybean meal,,Ukraine,,EXW,UAH,19100.0000,19600,,,August,2025/26,Meals,19350.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower cake,,Ukraine,,EXW,UAH,11700.0000,12200,,,August,2025/26,Meals,11950.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower meal,,Ukraine,Western border,DAP,USD,250.0000,260,,,August,2025/26,Meals,255.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower meal,,Ukraine,,CPT,USD,220.0000,230,,,August,2025/26,Meals,225.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower meal,,Ukraine,,EXW,UAH,12200.0000,12700,,,August,2025/26,Meals,12450.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Linseed,,Ukraine,,EXW,UAH,24000.0000,25000,,,August,2025/26,Oilseeds,24500.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Rapeseed,,Europe,Moselle,FOB,USD,,623,,,August,2026/27,Oilseeds,623.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,480.0000,490,,,August,2026/27,Oilseeds,485.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,495.0000,505,,,August,2026/27,Oilseeds,500.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Rapeseed,,Ukraine,Western border,DAP,USD,480.0000,490,,,August,2026/27,Oilseeds,485.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Rapeseed,non-GMO,Ukraine,,CPT,UAH,20500.0000,22500,,,August,2026/27,Oilseeds,21500.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Rapeseed,non-GMO,Ukraine,,EXW,UAH,20000.0000,21000,,,August,2026/27,Oilseeds,20500.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybeans,,Argentina,,FOB,USD,,454,,,August,2025/26,Oilseeds,454.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybeans,,Brazil,,FOB,USD,,482,,,August,2025/26,Oilseeds,482.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybeans,,USA,Gulf,FOB,USD,,483,,,August,2025/26,Oilseeds,483.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybeans,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,430.0000,440,,,August,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybeans,,Ukraine,Reni,DAP,USD,430.0000,440,,,August,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybeans,,Ukraine,Western border,DAP,USD,440.0000,450,,,August,2025/26,Oilseeds,445.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybeans,,Ukraine,,CPT,UAH,20000.0000,21000,,,August,2025/26,Oilseeds,20500.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybeans,,Ukraine,,EXW,UAH,19500.0000,20500,,,August,2025/26,Oilseeds,20000.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower seed,,Bulgaria,Black Sea,FOB,USD,625.0000,635,,,August,2025/26,Oilseeds,630.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower seed,,Romania,Black Sea,FOB,USD,625.0000,635,,,August,2025/26,Oilseeds,630.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower seed,,Ukraine,Western border,DAP,USD,540.0000,550,,,August,2025/26,Oilseeds,545.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower seed,,Ukraine,,CPT,UAH,30000.0000,31500,,,August,2025/26,Oilseeds,30750.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower seed,,Ukraine,,EXW,UAH,29000.0000,31000,,,August,2025/26,Oilseeds,30000.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Palm oil,Crude,Malaysia,,FOB,USD,,1112,,,August,2025/26,Vegoil,1112.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybean oil,Crude,Argentina,Up-river,FOB,USD,,1194,,,August,2025/26,Vegoil,1194.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Soybean oil,Crude,Ukraine,,EXW,UAH,56000.0000,57000,,,August,2025/26,Vegoil,56500.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower oil,Crude,Europe,Six ports,FOB,USD,,1540,,,August,2025/26,Vegoil,1540.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower oil,Crude,Russia,,FOB,USD,1360.0000,1370,,,August,2025/26,Vegoil,1365.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,1320.0000,1330,,,August,2025/26,Vegoil,1325.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,1370.0000,1380,,,August,2025/26,Vegoil,1375.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower oil,Crude,Ukraine,Izmail,FOB,USD,1350.0000,1360,,,August,2025/26,Vegoil,1355.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-11,Sunflower oil,Crude,Ukraine,,EXW,UAH,69000.0000,70000,,,August,2025/26,Vegoil,69500.0000,,DAILY_PRICES_13.08.xlsx,11.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,Australia,,FOB,USD,,267,,,August,2026/27,Grain,267.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,223.0000,228,,,August,2026/27,Grain,225.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,France,Rouen,FOB,USD,,248,,,August,2026/27,Grain,248.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,August,2026/27,Grain,202.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,Russia,Novorossiysk,FOB,USD,200.0000,205,,,September,2026/27,Grain,202.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,August,2026/27,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,Russia,Rostov/Azov,FOB,USD,190.0000,195,,,September,2026/27,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,Ukraine,Izmail,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,Ukraine,Izmail,FOB,USD,195.0000,200,,,September,2026/27,Grain,197.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,Ukraine,Reni,CPT,USD,170.0000,180,,,August,2026/27,Grain,175.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,Ukraine,Reni,CPT,USD,170.0000,180,,,September,2026/27,Grain,175.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,Ukraine,,CPT,UAH,7700.0000,8200,,,August,2026/27,Grain,7950.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Barley,Feed,Ukraine,,EXW,UAH,6500.0000,7000,,,August,2026/27,Grain,6750.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Argentina,,FOB,USD,,205,,,August,2025/26,Grain,205.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Brazil,,FOB,USD,,219,,,August,2025/26,Grain,219.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,250.0000,255,,,August,2025/26,Grain,252.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Russia,Novorossiysk,FOB,USD,215.0000,220,,,August,2025/26,Grain,217.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Russia,Novorossiysk,FOB,USD,220.0000,230,,,September,2026/27,Grain,225.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Russia,Rostov/Azov,FOB,USD,205.0000,210,,,August,2025/26,Grain,207.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Russia,Rostov/Azov,FOB,USD,210.0000,215,,,September,2026/27,Grain,212.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,USA,Gulf,FOB,USD,,219,,,August,2025/26,Grain,219.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Ukraine,Izmail,FOB,USD,200.0000,205,,,August,2025/26,Grain,202.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Ukraine,Izmail,FOB,USD,225.0000,230,,,September,2026/27,Grain,227.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Ukraine,Reni,CPT,USD,190.0000,195,,,August,2025/26,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Ukraine,Reni,CPT,USD,213.0000,219,,,September,2026/27,Grain,216.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Ukraine,Western border,DAP,USD,215.0000,220,,,August,2025/26,Grain,217.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Ukraine,Western border,DAP,USD,222.0000,227,,,September,2026/27,Grain,224.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Ukraine,,CPT,UAH,8000.0000,9000,,,August,2025/26,Grain,8500.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Corn,Feed,Ukraine,,EXW,UAH,7500.0000,8500,,,August,2025/26,Grain,8000.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 12%,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,248.0000,253,,,August,2026/27,Grain,250.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Feed,EU Black Sea,"Constanta, Varna, Burgas",FOB,USD,233.0000,238,,,August,2026/27,Grain,235.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 11.5%,France,Rouen,FOB,USD,,253,,,August,2026/27,Grain,253.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,221.0000,226,,,August,2026/27,Grain,223.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 12.5%,Russia,Novorossiysk,FOB,USD,221.0000,226,,,September,2026/27,Grain,223.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,215.0000,220,,,August,2026/27,Grain,217.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 11.5%,Russia,Novorossiysk,FOB,USD,215.0000,220,,,September,2026/27,Grain,217.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Feed,Russia,Novorossiysk,FOB,USD,185.0000,190,,,August,2026/27,Grain,187.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Feed,Russia,Novorossiysk,FOB,USD,185.0000,190,,,September,2026/27,Grain,187.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,186.0000,191,,,August,2026/27,Grain,188.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 12.5%,Russia,Rostov/Azov,FOB,USD,186.0000,191,,,September,2026/27,Grain,188.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,180.0000,185,,,August,2026/27,Grain,182.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 11.5%,Russia,Rostov/Azov,FOB,USD,180.0000,185,,,September,2026/27,Grain,182.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,SRW,USA,Gulf,FOB,USD,,265,,,August,2026/27,Grain,265.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,HRW,USA,Gulf,FOB,USD,,311,,,August,2026/27,Grain,311.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 12.5%,Ukraine,Izmail,FOB,USD,195.0000,200,,,August,2026/27,Grain,197.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 12.5%,Ukraine,Izmail,FOB,USD,195.0000,200,,,September,2026/27,Grain,197.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 11.5%,Ukraine,Izmail,FOB,USD,190.0000,195,,,August,2026/27,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 11.5%,Ukraine,Izmail,FOB,USD,190.0000,195,,,September,2026/27,Grain,192.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Feed,Ukraine,Izmail,FOB,USD,185.0000,190,,,August,2026/27,Grain,187.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Feed,Ukraine,Izmail,FOB,USD,185.0000,190,,,September,2026/27,Grain,187.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,172.0000,177,,,August,2026/27,Grain,174.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 12.5%,Ukraine,Reni,CPT,USD,172.0000,177,,,September,2026/27,Grain,174.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,170.0000,175,,,August,2026/27,Grain,172.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 11.5%,Ukraine,Reni,CPT,USD,170.0000,175,,,September,2026/27,Grain,172.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Feed,Ukraine,Reni,CPT,USD,165.0000,170,,,August,2026/27,Grain,167.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Feed,Ukraine,Reni,CPT,USD,165.0000,170,,,September,2026/27,Grain,167.5000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 12.5%,Ukraine,,CPT,UAH,8700.0000,9200,,,August,2026/27,Grain,8950.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Feed,Ukraine,,CPT,UAH,8000.0000,8500,,,August,2026/27,Grain,8250.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Milling - 12.5%,Ukraine,,EXW,UAH,7000.0000,8000,,,August,2026/27,Grain,7500.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Wheat,Feed,Ukraine,,EXW,UAH,6000.0000,7000,,,August,2026/27,Grain,6500.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybean cake,,Ukraine,,EXW,UAH,18600.0000,19100,,,August,2025/26,Meals,18850.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybean meal,,Argentina,,FOB,USD,,337,,,August,2025/26,Meals,337.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybean meal,,Ukraine,,CPT,USD,385.0000,395,,,August,2025/26,Meals,390.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybean meal,,Ukraine,,EXW,UAH,19100.0000,19600,,,August,2025/26,Meals,19350.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower cake,,Ukraine,,EXW,UAH,11700.0000,12200,,,August,2025/26,Meals,11950.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower meal,,Ukraine,Western border,DAP,USD,240.0000,250,,,August,2025/26,Meals,245.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower meal,,Ukraine,,CPT,USD,220.0000,230,,,August,2025/26,Meals,225.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower meal,,Ukraine,,EXW,UAH,12200.0000,12700,,,August,2025/26,Meals,12450.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Linseed,,Ukraine,,EXW,UAH,24000.0000,25000,,,August,2025/26,Oilseeds,24500.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Rapeseed,,Europe,Moselle,FOB,USD,,619,,,August,2026/27,Oilseeds,619.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,480.0000,490,,,August,2026/27,Oilseeds,485.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Rapeseed,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,495.0000,505,,,August,2026/27,Oilseeds,500.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Rapeseed,,Ukraine,Western border,DAP,USD,485.0000,495,,,August,2026/27,Oilseeds,490.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Rapeseed,non-GMO,Ukraine,,CPT,UAH,20500.0000,22500,,,August,2026/27,Oilseeds,21500.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Rapeseed,non-GMO,Ukraine,,EXW,UAH,20000.0000,21000,,,August,2026/27,Oilseeds,20500.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybeans,,Argentina,,FOB,USD,,451,,,August,2025/26,Oilseeds,451.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybeans,,Brazil,,FOB,USD,,479,,,August,2025/26,Oilseeds,479.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybeans,,USA,Gulf,FOB,USD,,480,,,August,2025/26,Oilseeds,480.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybeans,,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,430.0000,440,,,August,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybeans,,Ukraine,Reni,DAP,USD,430.0000,440,,,August,2025/26,Oilseeds,435.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybeans,,Ukraine,Western border,DAP,USD,440.0000,450,,,August,2025/26,Oilseeds,445.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybeans,,Ukraine,,CPT,UAH,20000.0000,21000,,,August,2025/26,Oilseeds,20500.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybeans,,Ukraine,,EXW,UAH,19500.0000,20500,,,August,2025/26,Oilseeds,20000.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower seed,,Bulgaria,Black Sea,FOB,USD,625.0000,635,,,August,2025/26,Oilseeds,630.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower seed,,Romania,Black Sea,FOB,USD,625.0000,635,,,August,2025/26,Oilseeds,630.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower seed,,Ukraine,Western border,DAP,USD,540.0000,550,,,August,2025/26,Oilseeds,545.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower seed,,Ukraine,,CPT,UAH,30000.0000,31500,,,August,2025/26,Oilseeds,30750.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower seed,,Ukraine,,EXW,UAH,29000.0000,31000,,,August,2025/26,Oilseeds,30000.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Palm oil,Crude,Malaysia,,FOB,USD,,1105,,,August,2025/26,Vegoil,1105.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybean oil,Crude,Argentina,Up-river,FOB,USD,,1188,,,August,2025/26,Vegoil,1188.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Soybean oil,Crude,Ukraine,,EXW,UAH,56000.0000,57000,,,August,2025/26,Vegoil,56500.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower oil,Crude,Europe,Six ports,FOB,USD,,1540,,,August,2025/26,Vegoil,1540.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower oil,Crude,Russia,,FOB,USD,1360.0000,1370,,,August,2025/26,Vegoil,1365.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",CPT,USD,1320.0000,1330,,,August,2025/26,Vegoil,1325.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower oil,Crude,Ukraine,"Chornomorsk, Odesa, Pivdennyi",FOB,USD,1370.0000,1380,,,August,2025/26,Vegoil,1375.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower oil,Crude,Ukraine,Izmail,FOB,USD,1340.0000,1350,,,August,2025/26,Vegoil,1345.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
+2026-08-12,Sunflower oil,Crude,Ukraine,,EXW,UAH,69000.0000,70000,,,August,2025/26,Vegoil,69500.0000,,DAILY_PRICES_13.08.xlsx,12.08.2026_min_max,2026-08-13
